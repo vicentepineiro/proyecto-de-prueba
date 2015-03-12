@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+TENGO NUEVO TEXTO
 Prueba index.html
+=======
+Prueba index.html
+>>>>>>> 9ec06681481de4ea87bb06cc99e8a6571021eaa1
